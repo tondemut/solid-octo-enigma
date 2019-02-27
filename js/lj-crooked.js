@@ -189,12 +189,12 @@
     }
   });
 
-  // Preloader
-  // Change delay and fadeOut speed (in miliseconds)
-  $(window).load(function() {
-    $('.lj-preloader').delay(100).fadeOut(200);
-    $('.lj-insignia, .lj-countdown').delay(500).animate({
-      opacity: '1'
-    }, 1000);
+  // // Preloader
+  // // Change delay and fadeOut speed (in miliseconds)
+  // $(window).load(function() {
+  //   $('.lj-preloader').delay(100).fadeOut(200);
+  //   $('.lj-insignia, .lj-countdown').delay(500).animate({
+  //     opacity: '1'
+  //   }, 1000);
 
-  });
+  // });

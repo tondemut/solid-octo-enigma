@@ -89,7 +89,7 @@ z-index: 0;
 		visibility: hidden !important;
 	}
 
-	.lj-preloader {
+	/* .lj-preloader {
 		background: #fafafa url('../img/preloader.svg') no-repeat center center;
 		bottom: 0;
 		height: 100%;
@@ -100,7 +100,7 @@ z-index: 0;
 		top: 0;
 		width: 100%;
 		z-index: 99999;
-	}
+	} */
 
 
 

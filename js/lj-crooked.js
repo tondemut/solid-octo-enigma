@@ -1,10 +1,3 @@
-/*
-  Author: Lumberjacks
-  Template: Crooked (Landing Page)
-  Version: 1.0
-  URL: http://themeforest.net/user/Lumberjacks/
-*/
-
 "use strict";
 
   $(document).ready(function (){
